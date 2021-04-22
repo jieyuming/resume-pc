@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 /build/
 /config/
 /dist/
 /*.js
 /test/unit/coverage/
+=======
+/build/
+/config/
+/dist/
+/*.js
+/test/unit/coverage/
+>>>>>>> main

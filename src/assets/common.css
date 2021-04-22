@@ -1,0 +1,13 @@
+.el-input__inner::placeholder {
+    color: #C0C0C0;
+    font-size: 16px;
+}
+.el-input__inner {
+    border-radius: 0;
+}
+.el-select {
+    width: 100%;
+}
+.el-cascader {
+    width: 100%;
+}
